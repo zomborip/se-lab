@@ -78,11 +78,7 @@ public class GT4500 implements SpaceShip {
 
       case ALL:
         // try to fire both of the torpedo stores
-<<<<<<< HEAD
-=======
-        //TODO implement feature
->>>>>>> parent of 231cb31 (Torpedo bug fixed)
-
+        //TODO
         
       break;
     }
